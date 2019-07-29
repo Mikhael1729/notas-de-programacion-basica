@@ -8,9 +8,11 @@ Las siguientes recomendaciones son para aprender lo básico de programación y l
 
 3. [Curso de Git](https://www.youtube.com/watch?v=jSJ8xhKtfP4&list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU). Git es el sistema de control de versiones más usado. En este curso aprendes buena parte de los comandos principales.
 
-4. [Curso de Bootstrap](https://www.youtube.com/watch?v=nug1pMke-y4&list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW). Ya teniendo las bases de HTML y CSS, este curso te lleva a un paso más enseñándote el framework de CSS más usdo del mundo en su versión n° 3. Bootstrap sirve para ahorrarte escribir muchas líneas de código CSS.
+4. [Aprende Markdown](https://markdown.es/). El formato `.md` indica que dentro del archivo con la extensión hay "markdown" un tipo de lenguaje para escribir hipertexto de manera fácil.
 
-5. Aplica todos tus conocimientos anteriores en un formulario web usando JSON y el *local storage* del navegador. Debes saber Bootstrap para seguir este curso. Debes copiar el código HTML que ves en su editor en los primeros segundos del video y usar bootstrap en ese proyecto, y ya luego podrás seguir los siguientes minutos del primer video y los demás que restan.
+5. [Curso de Bootstrap](https://www.youtube.com/watch?v=nug1pMke-y4&list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW). Ya teniendo las bases de HTML y CSS, este curso te lleva a un paso más enseñándote el framework de CSS más usdo del mundo en su versión n° 3. Bootstrap sirve para ahorrarte escribir muchas líneas de código CSS.
+
+6. Aplica todos tus conocimientos anteriores en un formulario web usando JSON y el *local storage* del navegador. Debes saber Bootstrap para seguir este curso. Debes copiar el código HTML que ves en su editor en los primeros segundos del video y usar bootstrap en ese proyecto, y ya luego podrás seguir los siguientes minutos del primer video y los demás que restan.
 
     - [Creación de objeto desde formulario json](https://www.youtube.com/watch?v=Tj2EuBHN5bQ)
     - [Dibujar tabla amigos con información de un JSON](https://www.youtube.com/watch?v=ww99RandZlo)
