@@ -1,5 +1,17 @@
 # Documentación
 
+## Herramientas útiles
+
+- [Visual Studio Code](https://code.visualstudio.com/). Es el mejor editor de código y el más usado en el mundo. Cuando abres un programa escrito en JavaScript por poner un ejemplo, el editor le agrega colores para que parezca más genial tu código.
+
+- [.Net Core](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.301-windows-x64-installer). Es la plataforma que tiene Microsoft para construir aplicaciones usando el lenguaje de programación C#.
+
+- [Git](https://git-scm.com/download/win). Es el mejor sistema de control de versiones que hay. Fue hecho por Linus Tolvards para evitar tener que tratar con personas en proyectos colaborativos. O sea, esto te sirve para trabajar en equipo y para mantener un registro de los cambios que hagas en tu código.
+
+- [NodeJS](https://nodejs.org/dist/v10.16.0/node-v10.16.0-x64.msi). Esta herramienta permite ejecutar código JavaScript fuera del navegador. 
+
+## Libros, webs y cursos
+
 Las siguientes recomendaciones son para aprender lo básico de programación y lo básico de programación web. A continuación, las referencias:
 
 1. Lee el libro [La esencia de la Lógica](https://clasew.jimdo.com/app/download/6632237854/Omar+Trejos+Buritic%C3%A1+-+La+Esencia+de+la+Logica+de+Programaci%C3%B3n.pdf?t=1377395454). Aquí aprenderás todo lo básico de programación sin un lenguaje de programación.
