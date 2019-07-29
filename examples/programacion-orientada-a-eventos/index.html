@@ -1,0 +1,41 @@
+<!-- Ejemplo de programación orientada a eventos -->
+<html>
+<head>
+  <title>Programación orientada a eventos</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Programación orientada a eventos</h1>
+
+    <br />
+
+    <div class="formulario">
+      <!-- Número 1 -->
+      <input 
+        id="inicio" 
+        type="number"
+        placeholder="Número de inicio" />
+
+      <!-- Número 2 -->
+      <input 
+        id="fin" 
+        type="number" 
+        placeholder="Número de fin"
+        />
+
+      <br />
+
+      <!-- Botón -->
+      <button onclick="sumatoria()">Sumatoria</button>
+    </div>
+
+    <br />
+    <br />
+
+    <!-- Resultado -->
+    <div id="resultado" />
+  </div>
+  <script src="code.js"></script>
+</body>
+</html>
