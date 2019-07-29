@@ -14,7 +14,10 @@ En el archivo llamado `Documentación.md` enumero una serie de referencias para 
     ![Git bash](imagenes/git_bash.png)
 
 3. Escribe el siguiente comando `git clone https://github.com/Mikhael1729/notas-de-programacion-basica.git`.
-4. Presiona "Enter"
+4. Presiona Enter
+5. Ahora, para abrir la carpeta que acabas de descargar (el repositorio) escribe el siguiente comando: ```explorer .``` (incluyendo el punto).
+6. Presiona "Enter"
+7. Eso abrirá el explorador de archivos donde podrás ubicar la carpeta llamada "notas-de-programacion-basica". Ahora puedes moverla de ahí si lo deseas y ubicarla en cualquier sitio.
 
 ¡Listo! Eso va a descargar todo el repositorio.
 
@@ -26,7 +29,7 @@ En el archivo llamado `Documentación.md` enumero una serie de referencias para 
 
     ![Markdown Image Size extension image](imagenes/download_extension.png)
 
-4. Después de haber instalado las extensiones anteriores, ahora abre la carpeta donde descargaste el repositorio yendo a `File -> Open Folder`. ESo abrirá una ventana emergente para que selecciones la carpeta que quieres abrir. Selecciónala y presiona el botón "OK".
+4. Después de haber instalado las extensiones anteriores, ahora abre la carpeta donde descargaste el repositorio yendo a `File -> Open Folder`. ESo abrirá una ventana emergente para que selecciones la carpeta donde se ubica el repositorior. Selecciónala y presiona el botón "OK".
 5. Abre un archivo cualquiera y presiona luego el botón de previsualización. En la imagen a continuación muestro cuál es el botón:
 
     ![Preview button](imagenes/preview-button.png)
