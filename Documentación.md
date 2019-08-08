@@ -16,7 +16,7 @@ Las siguientes recomendaciones son para aprender lo básico de programación y l
 
 1. Lee el libro [La esencia de la Lógica](https://clasew.jimdo.com/app/download/6632237854/Omar+Trejos+Buritic%C3%A1+-+La+Esencia+de+la+Logica+de+Programaci%C3%B3n.pdf?t=1377395454). Aquí aprenderás todo lo básico de programación sin un lenguaje de programación.
 
-2. [Curso de programación básica de Platzi](https://platzi.com/programacion). Aquí vas a aprender algunos fundamentos de programación y también aprenderás algo HTML, CSS y JavaScript.
+2. [Curso de programación básica de Platzi](https://platzi.com/programacion). Aquí vas a aprender algunos fundamentos de programación y también aprenderás algo HTML, CSS y JavaScript. Solo es necesario que sigas el curso hasta terminar el tema *Quinto proyecto: Cajero automático*
 
 3. [Curso de HTML y CSS](https://es.khanacademy.org/computing/computer-programming/html-css). Aquí aprenderás lo básico de HTMLy CSS. **Importante**: Solo necesitas ver los videos de los siguientes temas que hay en la página:
 
