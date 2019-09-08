@@ -44,7 +44,7 @@ Las siguientes recomendaciones son para aprender lo básico de programación y l
     
     - Busca a pluralsight y dale para obtener el cupo. <br />
     
-    ![](imagenes/pluralsight.png)
+        ![](imagenes/pluralsight.png)
     
     - Llena el formulario de Pluralsight.
     - Inicia Sesión en [Pluralsight](https://app.pluralsight.com) y accede al curso que señalo arriba. 
