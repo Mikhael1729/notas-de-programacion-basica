@@ -41,8 +41,11 @@ Las siguientes recomendaciones son para aprender lo básico de programación y l
     - Inicia sesión ahí.
     - En la página de inicio haz click  en botón que dice "Obtener mis Beneficios". Ejemplo: 
     ![](imagenes/vs_dev_essentials_beneficios.png)
-    - Busca a pluralsight y dale para obtener el cupo.
+    
+    - Busca a pluralsight y dale para obtener el cupo. <br />
+    
     ![](imagenes/pluralsight.png)
+    
     - Llena el formulario de Pluralsight.
     - Inicia Sesión en [Pluralsight](https://app.pluralsight.com) y accede al curso que señalo arriba. 
 
