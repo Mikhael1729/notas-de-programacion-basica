@@ -40,8 +40,9 @@ Las siguientes recomendaciones son para aprender lo básico de programación y l
     - Entra a [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/es/dev-essentials/) y regístrate.
     - Inicia sesión ahí.
     - En la página de inicio haz click en el botón que dice "Use sus ventajas". Ejemplo: 
-    ![](imagenes/vs_dev_essentials_beneficios.png)
     
+        ![](imagenes/vs_dev_essentials_beneficios.png)
+
     - Busca a pluralsight y dale para obtener el cupo. <br />
     
         ![](imagenes/pluralsight.png)
