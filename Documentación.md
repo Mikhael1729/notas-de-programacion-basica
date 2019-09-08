@@ -35,6 +35,16 @@ Las siguientes recomendaciones son para aprender lo básico de programación y l
 
     > Te recomiendo usar Git para este proyecto para que vayas ensayando y también sube tu código a un repositorio remoto en GitHub.
 
+6. [Curso de C# y Programación Orientada a Objetos (POO)](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents). En este curso aprenderás las bases de C# como lenguaje de programación a la vez que te enseña los pilares de la POO: Herencia, Encapsulación, Polimorfismo y Abstracción. Este curso se encuentra en una plataforma de pago llamada Pluralsight. Puedes obtener una cuenta gratuita por un mes siguiendo estos pasos:
+
+    - Entra a [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/es/dev-essentials/) y regístrate.
+    - Inicia sesión ahí.
+    - En la página de inicio haz click  en botón que dice "Obtener mis Beneficios". Ejemplo: 
+    ![](imagenes/vs_dev_essentials_beneficios.png)
+    - Busca a pluralsight y dale para obtener el cupo.
+    ![](imagenes/pluralsight.png)
+    - Llena el formulario de Pluralsight.
+    - Inicia Sesión en [Pluralsight](https://app.pluralsight.com) y accede al curso que señalo arriba. 
 
 5. *(opcional)* [Curso de Git](https://www.youtube.com/watch?v=jSJ8xhKtfP4&list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU). Git es el sistema de control de versiones más usado. En este curso aprendes buena parte de los comandos principales.
 
