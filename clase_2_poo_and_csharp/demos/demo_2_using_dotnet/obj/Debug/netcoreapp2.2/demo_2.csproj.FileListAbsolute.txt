@@ -1,0 +1,11 @@
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\bin\Debug\netcoreapp2.2\demo_2.deps.json
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\bin\Debug\netcoreapp2.2\demo_2.runtimeconfig.json
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\bin\Debug\netcoreapp2.2\demo_2.runtimeconfig.dev.json
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\bin\Debug\netcoreapp2.2\demo_2.dll
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\bin\Debug\netcoreapp2.2\demo_2.pdb
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\obj\Debug\netcoreapp2.2\demo_2.csprojAssemblyReference.cache
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\obj\Debug\netcoreapp2.2\demo_2.csproj.CoreCompileInputs.cache
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\obj\Debug\netcoreapp2.2\demo_2.AssemblyInfoInputs.cache
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\obj\Debug\netcoreapp2.2\demo_2.AssemblyInfo.cs
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\obj\Debug\netcoreapp2.2\demo_2.dll
+D:\gdrive\Projects\basic_programming\tomorrow\1_compilation\demo_2\obj\Debug\netcoreapp2.2\demo_2.pdb
